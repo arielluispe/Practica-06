@@ -1,1 +1,1 @@
-1 trade de como obtener el sueldo de una persona
+1 Obtiene el sueldo de una persona
